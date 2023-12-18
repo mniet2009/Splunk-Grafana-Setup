@@ -1,2 +1,2 @@
-# Splunk_Grafana_Setup .....
+# Splunk_Grafana_Setup 
 
